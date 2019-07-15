@@ -19,3 +19,4 @@ test=partial(test,1)
 print(test(2,3))
 
 # print(test(1,2,3))
+print()
