@@ -17,7 +17,6 @@ def test(x,y,z):
     return x+y+z
 test=partial(test,1)
 print(test(2,3))
-
 # print(test(1,2,3))
-print('asbfasiu')
-print("add")
+print('asbfasiu ***************')
+print("adddasldkjas;")
